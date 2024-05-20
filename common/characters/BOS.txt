@@ -3,7 +3,7 @@ characters={
 		name=BOS_saiba_momoi
 		portraits={
 			civilian={
-				large=GFX_portrait_ger_misono_mika
+				large=GFX_portrait_saiba_momoi
 			}
 		}
 		country_leader={
