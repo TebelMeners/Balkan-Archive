@@ -1,8 +1,3 @@
-# spriteType = {
-#		name = "GFX_portrait_ger_felix_steiner"
-#		texturefile = "gfx/leaders/GER/portrait_ger_felix_steiner.dds"
-#	}
-
 spriteTypes = {
 
     spriteType = {
