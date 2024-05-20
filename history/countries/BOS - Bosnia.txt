@@ -80,3 +80,13 @@ set_popularities = {
 	neutrality = 33
 	communism = 34
 }
+
+create_country_leader = {
+	name = BOS_saiba_momoi
+	desc = ""
+	picture = GFX_portrait_Ahmed_Ben_Bella
+	ideology = liberalism
+	traits = {
+		#
+	}
+}

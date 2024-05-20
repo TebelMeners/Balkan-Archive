@@ -1,0 +1,16 @@
+characters={
+	BOS_saiba_momoi={
+		name=BOS_saiba_momoi
+		portraits={
+			civilian={
+				large=GFX_portrait_ger_misono_mika
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits={ dictator }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

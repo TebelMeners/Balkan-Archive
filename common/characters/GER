@@ -3,7 +3,7 @@ characters={
 		name=GER_adolf_hitler
 		portraits={
 			civilian={
-				large=GFX_portrait_GER_adolf_hitler
+				large=GFX_portrait_ger_misono_mika
 			}
 		}
 		country_leader={
