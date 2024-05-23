@@ -1,0 +1,16 @@
+characters={
+	BOS_saiba_midori={
+		name=BOS_saiba_midori
+		portraits={
+			civilian={
+				large=GFX_portrait_saiba_midori
+			}
+		}
+		country_leader={
+			ideology=
+			traits={ dictator }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

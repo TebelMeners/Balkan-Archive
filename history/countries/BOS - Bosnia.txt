@@ -81,12 +81,14 @@ set_popularities = {
 	communism = 34
 }
 
+recruit_character = BOS_saiba_momoi
+
 create_country_leader = {
 	name = "BOS_saiba_momoi"
 	desc = ""
 	picture = GFX_portrait_saiba_momoi
 	ideology = liberalism
 	traits = {
-		#
+		dictator
 	}
 }
