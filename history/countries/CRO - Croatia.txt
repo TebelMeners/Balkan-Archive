@@ -1,6 +1,6 @@
 ﻿capital = 109
 
-set_research_slots = 2
+set_research_slots = 4
 
 oob = "CRO_1936"
 
@@ -97,9 +97,8 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Ante Pavelic"
-	desc = "ANTE_PAVELIC_DESC"
-	picture = GFX_portrait_Ante_Pavelic
+	name = CRO_saiba_midori
+	picture = GFX_portrait_saiba_midori
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {

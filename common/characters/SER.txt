@@ -1,0 +1,16 @@
+characters={
+	SER_tendou_arisu={
+		name=SER_tendou_arisu
+		portraits={
+			civilian={
+				large=GFX_portrait_arisu
+			}
+		}
+		country_leader={
+			ideology=socialism
+			traits={ popular_queen }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

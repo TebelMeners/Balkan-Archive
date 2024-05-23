@@ -1,0 +1,16 @@
+characters={
+	MNT_hanaoka_yuzu={
+		name=MNT_hanaoka_yuzu
+		portraits={
+			civilian={
+				large=GFX_portrait_yuzu
+			}
+		}
+		country_leader={
+			ideology=populism
+			traits={ cornered_fox }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

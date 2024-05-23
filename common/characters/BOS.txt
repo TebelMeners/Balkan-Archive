@@ -8,7 +8,7 @@ characters={
 		}
 		country_leader={
 			ideology=liberalism
-			traits={ dictator }
+			traits={ autocratic_imperialist }
 			expire="1965.1.1.1"
 			id=-1
 		}

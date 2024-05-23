@@ -7,4 +7,20 @@ spriteTypes = {
 		name = "GFX_portrait_saiba_momoi"
 		texturefile = "gfx/leaders/BOS/BOS_saiba_momoi.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_saiba_midori"
+		texturefile = "gfx/leaders/CRO/Midori_Portrait.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_yuzu"
+		texturefile = "gfx/leaders/MNT/Yuzu_Portrait.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_arisu"
+		texturefile = "gfx/leaders/SER/Alice_Portrait.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_aru"
+		texturefile = "gfx/leaders/Aru_Portrait.dds"
+	}
 }
