@@ -1,6 +1,5 @@
 ﻿set_research_slots = 4
 
-
 set_politics = {
 	ruling_party = democratic
 	last_election = "1936.1.1"
@@ -12,4 +11,15 @@ set_popularities = {
 	democratic = 33
 	neutrality = 33
 	communism = 34
+}
+
+create_country_leader = {
+	name = MAC_hanaoka_yuzu
+	desc = ""
+	picture = GFX_portrait_yuzu
+	expire = "1965.1.1"
+	ideology = populism
+	traits = {
+		cornered_fox
+	}
 }

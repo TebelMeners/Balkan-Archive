@@ -21,6 +21,6 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_aru"
-		texturefile = "gfx/leaders/Aru_Portrait.dds"
+		texturefile = "gfx/leaders/KOS/Aru_Portrait.dds"
 	}
 }

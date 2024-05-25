@@ -1,0 +1,16 @@
+characters={
+	KOS_aru={
+		name=KOS_aru
+		portraits={
+			civilian={
+				large=GFX_portrait_aru
+			}
+		}
+		country_leader={
+			ideology=
+			traits={ DEN_fascist_militarist }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
