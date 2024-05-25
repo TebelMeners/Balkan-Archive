@@ -23,4 +23,8 @@ spriteTypes = {
 		name = "GFX_portrait_aru"
 		texturefile = "gfx/leaders/KOS/Aru_Portrait.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_gdd"
+		texturefile = "gfx/leaders/YUG/GDD_Portrait.dds"
+	}
 }

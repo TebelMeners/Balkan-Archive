@@ -1,6 +1,6 @@
 characters={
-	MNT_hanaoka_yuzu={
-		name=MNT_hanaoka_yuzu
+	MAC_hanaoka_yuzu={
+		name=MAC_hanaoka_yuzu
 		portraits={
 			civilian={
 				large=GFX_portrait_yuzu
