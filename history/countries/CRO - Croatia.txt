@@ -43,3 +43,16 @@ add_country_leader_role = { #This replaces the commented script below - fixing a
 #		#
 #	}
 #}
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 70
+	neutrality = 20
+	communism = 10
+}
