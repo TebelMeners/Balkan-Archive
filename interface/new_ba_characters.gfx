@@ -13,7 +13,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_yuzu"
-		texturefile = "gfx/leaders/MNT/Yuzu_Portrait.dds"
+		texturefile = "gfx/leaders/MAC/Yuzu_Portrait.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_arisu"
