@@ -13,6 +13,8 @@ set_popularities = {
 	communism = 34
 }
 
+recruit_character = MAC_hanaoka_yuzu
+
 create_country_leader = {
 	name = MAC_hanaoka_yuzu
 	desc = ""

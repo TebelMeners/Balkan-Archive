@@ -13,6 +13,8 @@ set_popularities = {
 	fascism = 70
 }
 
+recruit_character = KOS_aru
+
 create_country_leader = {
 	name = KOS_aru
 	picture = GFX_portrait_aru
